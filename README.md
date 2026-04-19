@@ -1,5 +1,5 @@
 # 👾 Hi, I'm Alica!
-:::field::: Digital Humanities x Ephemeral Arts<br>:::loc::: MSc in DIgital Scholarship @Oxford<br>:::trace::: Applied Theatre Studies @JLUGiessen @UTokyo @TUFS
+:::field::: Digital Humanities x Ephemeral Arts<br> :::research::: Hypermediality · Bias · Cultural Analytics<br> :::trace::: Applied Theatre Studies @JLUGiessen @UTokyo @TUFS and MSc in Digital Scholarship @Oxford
 
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/alicamller.bsky.social) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alicamller) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@alicamller@mastodon.social) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alicamller)
